@@ -1,2 +1,3 @@
 # juntos-ibm-workshop
-This is the IBM AI workshop for juntos
+
+Please go to [/docs/00-start-here.md](docs/00-start-here.md) to start the tutorial.
