@@ -33,10 +33,5 @@ Use this page when something breaks during the live workshop.
 - Wait for any indexing or processing to finish if the platform shows that state
 - Test each specialist agent directly before testing the supervisor
 
-## If WhatsApp replies with the Twilio echo message
-
-- The watsonx Orchestrate WhatsApp channel is probably still in `Draft`
-- Re-open the channel and check that it is `Active`
-- Re-copy the webhook URL into Twilio with no extra spaces
 
 

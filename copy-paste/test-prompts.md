@@ -39,17 +39,3 @@ I need to find scholarships for next semester and I also want to know about tuto
 ```text
 Hola, necesito ayuda con FAFSA y tambien quiero saber donde esta el food pantry.
 ```
-
-## WhatsApp tests
-
-```text
-Hola, que becas hay para estudiantes latinos?
-```
-
-```text
-Where is the food pantry and when is it open?
-```
-
-```text
-I need help with FAFSA and I also need tutoring for calculus.
-```
