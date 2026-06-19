@@ -6,7 +6,7 @@ This is the moment where you confirm the multi-agent system actually works.
 
 1. Open the main menu in watsonx Orchestrate.
 2. Click `Chat`.
-3. In the agent dropdown, choose `Juntos Success Bot`.
+3. In the agent dropdown, choose `Supervisor Agent`.
 
 ## Run three tests
 
