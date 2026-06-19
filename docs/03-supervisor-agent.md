@@ -5,14 +5,14 @@ This is the only agent the student should talk to directly. Its job is to route 
 ## You will use
 
 - Both deployed specialist agents from Steps 1 and 2
-- `Juntos Success Bot` content from [copy-paste/agent-config.md](../copy-paste/agent-config.md)
+- `Supervisor Agent` content from [copy-paste/agent-config.md](../copy-paste/agent-config.md)
 
 ## Create the agent
 
 1. In watsonx Orchestrate, open `Build` in the hamburger menu and select `Create Agent`.
 2. Select `Create from Scratch`
 3. Fill in:
-   - Name: `Juntos Success Bot`
+   - Name: `Supervisor Agent`
    - Description: copy the `Supervisor description` block from [copy-paste/agent-config.md](../copy-paste/agent-config.md)
 4. Click `Create`.
 
