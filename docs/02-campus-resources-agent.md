@@ -56,7 +56,6 @@ You are done with Step 2 when:
 
 - The agent exists
 - The two campus resource PDFs are attached
-- `Show Agent` is off
 - The quick test works
 - The agent is deployed
 

@@ -17,15 +17,16 @@ Use this page when something breaks during the live workshop.
 
 ## If the supervisor does not appear in chat
 
-- Open the supervisor agent and confirm `Show Agent` is `ON`
-- Open each specialist agent and confirm `Show Agent` is `OFF`
-- Redeploy the supervisor after changing the channel settings
+- Confirm the supervisor agent is deployed
+- Check that you selected the correct agent name in the chat dropdown
+- Refresh the page and try again
 
 ## If routing looks wrong
 
 - Re-check the supervisor behavior instructions in [copy-paste/agent-config.md](../copy-paste/agent-config.md)
-- Make sure both specialist agents were added in the supervisor `Toolset`
-- Retry with a cleaner prompt that only asks about one topic
+- Make sure both specialist agents were added in the supervisor `Toolset` section
+- Confirm both specialist agents are deployed
+- Retry with a clearer prompt that only asks about one topic
 
 ## If citations are missing
 

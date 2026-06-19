@@ -57,7 +57,6 @@ You are done with Step 1 when:
 
 - The agent exists
 - The two scholarship PDFs are attached
-- `Show Agent` is off
 - The quick test works
 - The agent is deployed
 

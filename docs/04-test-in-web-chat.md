@@ -6,9 +6,7 @@ This is the moment where you confirm the multi-agent system actually works.
 
 1. Open the main menu in watsonx Orchestrate.
 2. Click `Chat`.
-3. In the agent dropdown, choose `Becas y Recursos Bot`.
-
-Only the supervisor should appear in the dropdown if you turned `Show Agent` off for the two specialist agents.
+3. In the agent dropdown, choose `Juntos Success Bot`.
 
 ## Run three tests
 
