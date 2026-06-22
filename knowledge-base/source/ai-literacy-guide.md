@@ -1,12 +1,4 @@
-# AI Literacy Guide — Expanded Knowledge Base
-
-> **Purpose:** A student-friendly guide for an AI literacy chatbot or workshop. It explains artificial intelligence, workplace technology terms, responsible AI use, and practical AI skills.  
-> **Audience:** Middle school, high school, early college students, educators, mentors, and community workshop participants.  
-> **Last updated:** 2026-06-22  
-> **Use case:** Chatbot knowledge base, workshop handout, lesson companion, or onboarding guide for students learning about AI and technology careers.  
-> **Important note:** This guide is educational. For real decisions about school, careers, privacy, scholarships, healthcare, law, or finances, students should verify information with official sources or trusted adults/professionals.
-
----
+# AI Literacy Guide 
 
 ## 1. How the Chatbot Should Use This Guide
 

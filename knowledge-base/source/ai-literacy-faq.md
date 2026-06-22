@@ -1,12 +1,5 @@
 # AI Literacy Chatbot Knowledge Base
 
-> **Purpose:** Student-friendly knowledge base for an AI literacy chatbot. Designed for workshops, classroom demos, and guided conversations with learners.  
-> **Audience:** Middle school, high school, early college students, educators, and community workshop participants.  
-> **Last updated:** 2026-06-22  
-> **Important note:** This knowledge base is educational. For real decisions about school, jobs, healthcare, law, finance, scholarships, or privacy, users should verify information with official sources or trusted adults/professionals.
-
----
-
 ## How the Chatbot Should Use This Knowledge Base
 
 ### Response style
