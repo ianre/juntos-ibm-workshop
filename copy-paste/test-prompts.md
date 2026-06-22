@@ -12,14 +12,14 @@ What scholarships are available for Hispanic students, and when is the FAFSA dea
 Can first-generation students apply for more than one scholarship at the same time?
 ```
 
-## Campus Resources Agent tests
+## AI Career Coach Agent tests
 
 ```text
-Donde esta la despensa de comida del campus y cuales son los horarios?
+How is AI changing jobs in healthcare, and what skills should I develop if I want to work in that field?
 ```
 
 ```text
-Necesito ayuda con tutoria para calculo y tambien quiero saber como hacer una cita con consejeria.
+Que habilidades humanas y tecnicas necesito para tener exito en un mundo laboral con inteligencia artificial?
 ```
 
 ## Supervisor tests
@@ -29,13 +29,13 @@ What scholarships are available for first-generation Hispanic students?
 ```
 
 ```text
-Necesito ayuda. No tengo suficiente comida esta semana. Que recursos hay en el campus?
+I'm interested in careers that use AI. What education pathways should I consider and what skills do I need?
 ```
 
 ```text
-I need to find scholarships for next semester and I also want to know about tutoring services.
+I need to find scholarships for next semester and I also want to know what skills I should develop for an AI-influenced job market.
 ```
 
 ```text
-Hola, necesito ayuda con FAFSA y tambien quiero saber donde esta el food pantry.
+Hola, necesito ayuda con FAFSA y tambien quiero saber como la inteligencia artificial esta cambiando las carreras profesionales.
 ```

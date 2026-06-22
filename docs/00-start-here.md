@@ -37,8 +37,8 @@ Use these four PDFs during the workshop:
 
 - [knowledge-base/pdf/scholarships-overview.pdf](../knowledge-base/pdf/scholarships-overview.pdf)
 - [knowledge-base/pdf/scholarship-faq.pdf](../knowledge-base/pdf/scholarship-faq.pdf)
-- [knowledge-base/pdf/campus-resources-guide.pdf](../knowledge-base/pdf/campus-resources-guide.pdf)
-- [knowledge-base/pdf/campus-resources-faq.pdf](../knowledge-base/pdf/campus-resources-faq.pdf)
+- [knowledge-base/pdf/ai-career-coach-guide.pdf](../knowledge-base/pdf/ai-career-coach-guide.pdf)
+- [knowledge-base/pdf/ai-career-coach-faq.pdf](../knowledge-base/pdf/ai-career-coach-faq.pdf)
 
 ## Next step
 
