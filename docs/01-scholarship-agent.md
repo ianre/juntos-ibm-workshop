@@ -62,4 +62,4 @@ You are done with Step 1 when:
 
 ## Next step
 
-Go to [docs/02-campus-resources-agent.md](02-campus-resources-agent.md).
+Go to [docs/02-ai-career-coach-agent.md](02-ai-career-coach-agent.md).

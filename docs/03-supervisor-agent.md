@@ -23,7 +23,7 @@ This is the only agent the student should talk to directly. Its job is to route 
 3. Choose `Add from local instance`.
 4. Select:
    - `Scholarship Agent`
-   - `Campus Resources Agent`
+   - `AI Career Coach Agent`
 5. Click `Add to agent`.
 
 ## Configure behavior

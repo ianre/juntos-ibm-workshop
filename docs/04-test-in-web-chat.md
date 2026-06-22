@@ -16,18 +16,18 @@ Use the prompts in [copy-paste/test-prompts.md](../copy-paste/test-prompts.md).
 
 > What scholarships are available for first-generation Hispanic students?
 
-### Test 2: Campus resources in Spanish
+### Test 2: AI Career Coach in Spanish
 
-> Necesito ayuda. No tengo suficiente comida esta semana. Que recursos hay en el campus?
+> Que habilidades humanas y tecnicas necesito para tener exito en un mundo laboral con inteligencia artificial?
 
 ### Test 3: Multi-agent routing
 
-> I need to find scholarships for next semester and I also want to know about tutoring services.
+> I need to find scholarships for next semester and I also want to know what skills I should develop for an AI-influenced job market.
 
 ## What to look for
 
 1. Scholarship questions should be answered from the scholarship documents
-2. Campus support questions should be answered from the campus resources documents
+2. Career planning and AI workforce questions should be answered from the AI career coach documents
 3. Multi-topic questions should be answered in one combined response
 4. The bot should match the language of the student
 5. Citations should still appear in the specialist responses
