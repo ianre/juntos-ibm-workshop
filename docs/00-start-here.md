@@ -7,7 +7,7 @@ This workshop is designed to be completed in about ~50 minutes. You do not need 
 0. An instructor will pair you up.
 Follow the instructor through:
 1. Create an IBM Cloud account:
-    - Go to https://cloud.ibm.com/registration?utm_content=academicsb
+    - Go to https://cloud.ibm.com
     - Register for a Free IBM Cloud Account
     - Make sure you use an email account you have access to
 2. Provision watsonx orchestrate instance (Free Tier)
